@@ -2,9 +2,9 @@ import java.util.Random;
 
 public class Player {
 
-    private final String[] pseudo = {"Jimmy", "Baron", "Michou", "Maël", "Igor", "Adam", "Freeman", "Camely", "Madman", "Francky", "Franchie", "Zeus", "Harry", "Prince", "Gordon" };
+    private final String[] pseudo = {"Jimmy", "Baron", "Michou", "Maël", "Igor", "Adam", "Freeman", "Camely", "Madman", "Francky", "Franchie", "Zeus", "Harry", "Prince", "Gordon",     "Denver", "Silvère", "Tony", "Boss", "Martin", "Jedi", "Jordy", "Jordan", "James", "Rolex", "Yannou", "Zorro", "Comik", "Bobby", "Jeronimo", "Kaneki", "Loki", "Futé", "Karter", "Novak", "Kennedy", "Billy", "Ragnar", "Tommy", "Ricky" };
 
-    private String player = new String();
+    private String player = "";
 
     public Player() {
         System.out.println(getPseudo());

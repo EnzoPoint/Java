@@ -18,8 +18,6 @@ public class Bataille {
 
         /// START LAUNCH DECK
 
-        Deck deck = new Deck(p1, p2);
-
+        new Deck(p1, p2);
     }
-    /// Arraylist, Collections
 }
