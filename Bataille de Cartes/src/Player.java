@@ -10,6 +10,10 @@ public class Player {
         System.out.println(getPseudo());
     }
 
+    /**
+     * Get random nickname to be more fun with a list of random pseudo
+     * @return The nickname that has been defined
+     */
     private String getPseudo() {
         Random random = new Random();
         player = pseudo[random.nextInt(pseudo.length)];
