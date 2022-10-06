@@ -24,4 +24,4 @@ Une fois que l’un des deux joueurs n’a plus de carte en main, le programme v
 
 # Schéma UML
 
-![Capture d’écran 2022-10-06 à 21.11.40.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e648cbb-7a9d-4980-842a-668cec6d39a3/Capture_decran_2022-10-06_a_21.11.40.png)
+![Capture d’écran 2022-10-06 à 21.11.40.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e648cbb-7a9d-4980-842a-668cec6d39a3/Capture_decran_2022-10-06_a_21.11.40.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221006%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221006T194046Z&X-Amz-Expires=86400&X-Amz-Signature=ffaa82a804381982331dea3abb1d7072fa505e1ed865f4216c7e41fe4484b893&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202022-10-06%2520a%25CC%2580%252021.11.40.png%22&x-id=GetObject)
