@@ -33,6 +33,6 @@ Nous pourrions optimiser le palindrome pour éviter de reverse les caractères d
 
 ## Diagram UML
 
-![Capture d’écran 2022-10-13 à 09.41.47.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/10357f5e-7aa2-4c8f-bbc8-d7754e9bb62e/Capture_decran_2022-10-13_a_09.55.06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221013%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221013T080037Z&X-Amz-Expires=86400&X-Amz-Signature=73cf03565c473db7100f506a566b99e7a9a89736d367f0b1fda2d21c358ac425&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202022-10-13%2520a%25CC%2580%252009.55.06.png%22&x-id=GetObject)
+![Capture d’écran 2022-10-13 à 09.41.47.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c5e3cadd-56e1-467a-b313-53e4e7c87eb7/Capture_decran_2022-10-13_a_10.04.48.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221013%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221013T080500Z&X-Amz-Expires=86400&X-Amz-Signature=2143f91b9e9ac535c4ba08fbd65908f325fe4367deac4d906ee8fe376f2e48ca&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202022-10-13%2520a%25CC%2580%252010.04.48.png%22&x-id=GetObject)
 
 ---
