@@ -18,7 +18,7 @@ public class PalindromeByCharacter extends ReaderFile {
     /**
      * We edit function Display to display the file right side up
      *
-     * @return
+     * @return Arraylist with the reverse ++
      */
     @Override
     public void Display() {

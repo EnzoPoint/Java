@@ -13,7 +13,7 @@ public class LeftSideUpFile extends ReaderFile {
     /**
      * We edit function Display to display the file right side up
      *
-     * @return
+     * @return just return content with the reverse
      */
     @Override
     public void Display() {

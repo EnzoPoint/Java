@@ -13,6 +13,11 @@ public abstract class ReaderFile implements Reader {
         this.contentFile = new ArrayList<String>();
     }
 
+    /**
+     * @param pathRelative
+     * read file and add it to Arraylist contentFile
+     * @throws IOException
+     */
     public void read(String pathRelative) throws IOException {
 
         String pathAbsolute = System.getProperty("user.dir") + pathRelative;
@@ -32,6 +37,10 @@ public abstract class ReaderFile implements Reader {
         }
     }
 
+
+    /**
+     * Fais rien pour l'instant
+     */
     public abstract void Display();
 }
 
