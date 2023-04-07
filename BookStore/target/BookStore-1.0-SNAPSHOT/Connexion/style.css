@@ -1,0 +1,24 @@
+
+.table {
+    margin-bottom:20px;
+    border-top:1px solid tomato;
+    border-bottom:1px solid tomato;
+    margin-top:30px;
+    width:400px;
+}
+
+.td_text {
+    font-family:'Arial Hebrew Scholar';
+    font-size:10pt;
+    padding-top:10px;
+    padding-right:10px;
+    width:120px;
+    border-right:1px solid red;
+    text-align:right;
+}
+
+.td_input {
+    padding-top:10px;
+    padding-left:10px;
+    text-align:center;
+}
